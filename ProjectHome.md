@@ -1,0 +1,1 @@
+This is a repository for source code of any language that deals with pen-based user interfaces. This includes sketching, low-level interaction techniques, recognizers, design tools, applications, and so on.
